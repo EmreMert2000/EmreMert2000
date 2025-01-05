@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**EmreMert2000/EmreMert2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Emre Mert, a passionate **Mobile Developer** 🚀 who loves creating user-friendly and high-performing mobile applications.  
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- Developing cross-platform mobile apps with **Flutter** and **React Native**.  
+- Exploring native development with **Swift** (iOS) and **Kotlin** (Android).  
+- Building innovative solutions with clean architecture and modern design patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- Advanced **State Management** in Flutter 
+- Leveraging **Jetpack Compose** for modern Android UIs.   
+
+### 👯 I’m looking to collaborate on:
+- Open-source mobile development projects.  
+- Innovative startups in the mobile app industry.  
+- Building community-driven tools for developers.
+ 
+### 🤔 I’m looking for help with:
+- Scaling and optimizing mobile applications for high user bases.  
+- Implementing AI-powered features in mobile apps.
+
+### 💬 Ask me about:
+- Mobile app development (Flutter, React Native, Swift, Kotlin).  
+- Clean code practices and efficient app architecture.  
+- Design-to-development workflows.
+
