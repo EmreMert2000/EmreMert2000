@@ -4,17 +4,12 @@ I'm **Emre Mert**, a passionate **Mobile Developer** building intuitive and high
 ---
 
 ### 💡 What I Do
-- Building cross-platform apps with **Flutter** and **React Native**  
-- Clean architecture using **MVVM** and **SOLID** principles  
-- Data analysis, reporting, and in-app data handling with **SQL** and **Python**  
-- Creating scalable, performance-driven applications  
+-Develop cross-platform mobile applications
+-Design clean and maintainable software architecture
+-Analyze and manage data through reporting and structured processing
 
 ---
 
-### 🤝 Let’s Collaborate!
-- Open-source mobile projects  
-- Startup collaborations & developer tools  
-- Mobile solutions powered by data science
 
 ## 📊 GitHub Stats
 
