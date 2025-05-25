@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlPjezGYjVn46dy/giphy.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF5Z3NxY3E5ZHhqdm11ZWN6cWR6Mjh4b2w4cXlrN2RyYm1mMTBqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="400"/>
 </p>
 
 ## 👋 Hello
@@ -31,7 +31,7 @@ I also focus on **data-driven solutions** using SQL and Python, and I'm interest
 ## 📬 Contact Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/emre-mert" target="_blank">
+  <a href="https://www.linkedin.com/in/emremert2000/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/EmreMert2000" target="_blank">
