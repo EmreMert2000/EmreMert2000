@@ -14,7 +14,7 @@
 
 ## 🚀 Currently Growing With
 
-### 📌 [FutData – Football Analytics App](https://github.com/EmreMert2000/FutData)
+### 📌 [FutData – Football Analytics App](https://github.com/EmreMert2000/FootData)
 A data-rich mobile application focused on delivering detailed football insights using live data and AI-powered features.  
 This project reflects my vision of merging **sports**, **data science**, and **mobile development**.  
 _It’s the project I’m most actively developing and growing with right now._
