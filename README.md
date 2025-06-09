@@ -2,23 +2,34 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF5Z3NxY3E5ZHhqdm11ZWN6cWR6Mjh4b2w4cXlrN2RyYm1mMTBqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="400"/>
 </p>
 
-## 👋 Hello
+<h1 align="center">👋 Hello, I'm <strong>Emre Mert</strong></h1>
 
-I'm **Emre Mert**, a passionate **Mobile Developer** building intuitive and high-performance apps.  
-I also focus on **data-driven solutions** using SQL and Python, and I'm interested in integrating  
-**AI** and **data science** into mobile experiences.
-
----
-
-### 💡 Expertise
-
-- Develop cross-platform mobile applications  
-- Design clean and maintainable software architecture  
-- Analyze and manage data through reporting and structured processing  
+<p align="center">
+  Passionate <strong>Mobile Developer</strong> focused on crafting intuitive, fast, and clean applications.  
+  I also love working with <strong>SQL</strong> and <strong>Python</strong> to build data-driven solutions  
+  — currently exploring the synergy between <strong>AI</strong> and mobile tech.
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Currently Growing With
+
+### 📌 [FutData – Football Analytics App](https://github.com/EmreMert2000/FutData)
+A data-rich mobile application focused on delivering detailed football insights using live data and AI-powered features.  
+This project reflects my vision of merging **sports**, **data science**, and **mobile development**.  
+_It’s the project I’m most actively developing and growing with right now._
+
+---
+
+## 💡 What I Do
+
+- 📱 Build cross-platform mobile apps with performance in mind  
+- 🧱 Design scalable and clean software architecture  
+- 📊 Transform raw data into meaningful insight with SQL & Python  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmreMert2000&show_icons=true&theme=radical" />
@@ -28,7 +39,7 @@ I also focus on **data-driven solutions** using SQL and Python, and I'm interest
 
 ---
 
-## 📬 Contact Me
+## 📬 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/emremert2000/" target="_blank">
