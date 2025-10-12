@@ -3,38 +3,43 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4db8ff;">Emre Mert</span></h1>
-<p align="center"><em>🚀 Mobile Developer | 📊 Data Enthusiast | 🤖 AI Explorer</em></p>
+<p align="center"><em>🚀 Entrepreneur | 📱 Mobile Developer | 📊 Data Science</em></p>
 
 ---
 
 ## 🌟 About Me  
 
-🔹 Passionate **Mobile Developer** crafting intuitive, fast, and clean apps  
-🔹 Experienced with **SQL & Python** for data-driven solutions  
-🔹 Exploring the synergy between **AI** and **Mobile Tech**  
+💡 I’m an **entrepreneurial software engineer** focused on creating innovative, scalable, and data-driven products.  
+I love turning ideas into impactful mobile experiences and exploring how **AI** can enhance modern technology.  
+
+🔹 Passionate about **mobile development** using React Native, Flutter & Swift
+🔹 Skilled in **SQL, Python, and Data Analysis** for intelligent decision systems  
+🔹 Exploring **AI-powered apps** and predictive analytics  
 
 ---
 
-## 🚀 Featured Project  
+## ⚽ Featured Project – FutVeri  
 
-Futbol Geleceğin en büyük verisi.
 <p align="center">
-  ⚽ <strong>FutVeri</strong> is a data-rich football analytics ecosystem delivering <br/>
-  live insights, AI-powered scouting, and Fantasy Premier League tools.
+  <strong>FutVeri</strong> is a football data analytics ecosystem built to transform <br/>
+  how fans, clubs, and fantasy managers understand the game.
 </p>
 
----
-
-## 💡 What I Do  
-
-- 🏗️ Build cross-platform mobile apps with performance in mind  
-- 🧩 Design scalable, clean architectures  
-- 📈 Transform raw data into insights with SQL & Python  
-- 🤝 Share knowledge and collaborate on AI & data projects  
+🔥 Includes AI-driven scouting tools, match prediction models, and real-time FPL insights.  
+📊 “Bringing football into the data era.”
 
 ---
 
-## 📊 GitHub Stats  
+## 💻 What I Do  
+
+- 📱 Build cross-platform mobile apps with clean architecture & smooth UX  
+- 🧠 Integrate AI models into real-world applications  
+- 🗃️ Analyze and visualize data using SQL & Python  
+- 🚀 Combine tech, creativity, and entrepreneurship to deliver real impact  
+
+---
+
+## 📈 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmreMert2000&show_icons=true&theme=tokyonight" height="160" />
@@ -43,7 +48,7 @@ Futbol Geleceğin en büyük verisi.
 
 ---
 
-## 📬 Let's Connect  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emremert2000/" target="_blank">
@@ -57,4 +62,4 @@ Futbol Geleceğin en büyük verisi.
   </a>
 </p>
 
-<p align="center"><em>✨ Always open to connect, collaborate, and build cool things together!</em></p>
+<p align="center"><em>✨ Let’s connect and build something amazing together!</em></p>
