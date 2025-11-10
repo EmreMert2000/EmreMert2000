@@ -3,39 +3,45 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4db8ff;">Emre Mert</span></h1>
-<p align="center"><em>🚀 Entrepreneur | 📱 Mobile Developer | 📊 Data Science</em></p>
+<p align="center"><em>🚀 Mobile Developer | 💾 Backend & Data Engineering | 🧠 AI & Predictive Analytics</em></p>
 
 ---
 
 ## 🌟 About Me  
 
-💡 I’m an **entrepreneurial software engineer** focused on creating innovative, scalable, and data-driven products.  
-I love turning ideas into impactful mobile experiences and exploring how **AI** can enhance modern technology.  
+I’m a **software engineer & technology entrepreneur** building scalable, data-driven mobile products.  
+My focus is on **mobile development, backend architectures, and data science** to create real-world solutions.
 
-🔹 Passionate about **mobile development** using React Native, Flutter & Swift
-🔹 Skilled in **SQL, Python, and Data Analysis** for intelligent decision systems  
-🔹 Exploring **AI-powered apps** and predictive analytics  
+✅ Cross-platform app development (React Native, Flutter & Swift)  
+✅ Backend development & API design (Node.js, Firebase, Supabase, SQL)  
+✅ Predictive analytics, Python-based data pipelines, and model-driven insights  
+✅ Product planning: requirement analysis → architecture → deployment  
 
----
-
-## ⚽ Featured Project – FutVeri  
-
-<p align="center">
-  <strong>FutVeri</strong> is a football data analytics ecosystem built to transform <br/>
-  how fans, clubs, and fantasy managers understand the game.
-</p>
-
-🔥 Includes AI-driven scouting tools, match prediction models, and real-time FPL insights.  
-📊 “Bringing football into the data era.”
+I love transforming business ideas into **production-ready applications** with clean architecture, automation, and measurable outcomes.
 
 ---
 
-## 💻 What I Do  
 
-- 📱 Build cross-platform mobile apps with clean architecture & smooth UX  
-- 🧠 Integrate AI models into real-world applications  
-- 🗃️ Analyze and visualize data using SQL & Python  
-- 🚀 Combine tech, creativity, and entrepreneurship to deliver real impact  
+## 🧰 Tech Stack  
+
+| Area | Technologies |
+|------|--------------|
+| **Mobile** | React Native, Flutter, Swift (UIKit/SwiftUI) |
+| **Backend & APIs** | Node.js, Express, Firebase, Supabase |
+| **Databases** | PostgreSQL, MongoDB, Firestore, SQLite |
+| **Data Science** | Python, Pandas, NumPy, Scikit-learn, Predictive Modeling |
+| **Cloud & DevOps** | Firebase Hosting, Vercel, Docker, CI/CD |
+| **Architecture** | Clean Architecture, MVVM, SOLID, Modularization |
+
+---
+
+## 🚀 What I Build  
+
+- ✅ Production-ready mobile applications with clean UI/UX  
+- ✅ Backend APIs, authentication, and databases  
+- ✅ AI-driven features, recommendation & prediction systems  
+- ✅ Automated reports and data dashboards  
+- ✅ Scalable product architectures with CI/CD & cloud deployment  
 
 ---
 
@@ -62,4 +68,4 @@ I love turning ideas into impactful mobile experiences and exploring how **AI** 
   </a>
 </p>
 
-<p align="center"><em>✨ Let’s connect and build something amazing together!</em></p>
+<p align="center"><em>📩 Open to collaborations, new ideas, and challenging engineering problems.</em></p>
