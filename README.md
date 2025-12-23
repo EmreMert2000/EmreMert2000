@@ -12,10 +12,10 @@
 I’m a **software engineer & technology entrepreneur** building scalable, data-driven mobile products.  
 My focus is on **mobile development, backend architectures, and data science** to create real-world solutions.
 
-✅ Cross-platform app development (React Native, Flutter & Swift)  
-✅ Backend development & API design (Node.js, Firebase, Supabase, SQL)  
-✅ Predictive analytics, Python-based data pipelines, and model-driven insights  
-✅ Product planning: requirement analysis → architecture → deployment  
+- Cross-platform app development (React Native, Flutter & Swift)  
+- Backend development & API design (Node.js, Firebase, Supabase, SQL)  
+- Predictive analytics, Python-based data pipelines, and model-driven insights  
+- Product planning: requirement analysis → architecture → deployment  
 
 I love transforming business ideas into **production-ready applications** with clean architecture, automation, and measurable outcomes.
 
@@ -37,11 +37,11 @@ I love transforming business ideas into **production-ready applications** with c
 
 ## 🚀 What I Build  
 
-- ✅ Production-ready mobile applications with clean UI/UX  
-- ✅ Backend APIs, authentication, and databases  
-- ✅ AI-driven features, recommendation & prediction systems  
-- ✅ Automated reports and data dashboards  
-- ✅ Scalable product architectures with CI/CD & cloud deployment  
+-  Production-ready mobile applications with clean UI/UX  
+-  Backend APIs, authentication, and databases  
+-  AI-driven features, recommendation & prediction systems  
+-  Automated reports and data dashboards  
+-  Scalable product architectures with CI/CD & cloud deployment  
 
 ---
 
