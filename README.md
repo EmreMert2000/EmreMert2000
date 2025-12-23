@@ -22,29 +22,6 @@ I love transforming business ideas into **production-ready applications** with c
 ---
 
 
-## 🧰 Tech Stack  
-
-| Area | Technologies |
-|------|--------------|
-| **Mobile** | React Native, Flutter, Swift (UIKit/SwiftUI) |
-| **Backend & APIs** | Node.js, Express, Firebase, Supabase |
-| **Databases** | PostgreSQL, MongoDB, Firestore, SQLite |
-| **Data Science** | Python, Pandas, NumPy, Scikit-learn, Predictive Modeling |
-| **Cloud & DevOps** | Firebase Hosting, Vercel, Docker, CI/CD |
-| **Architecture** | Clean Architecture, MVVM, SOLID, Modularization |
-
----
-
-## 🚀 What I Build  
-
--  Production-ready mobile applications with clean UI/UX  
--  Backend APIs, authentication, and databases  
--  AI-driven features, recommendation & prediction systems  
--  Automated reports and data dashboards  
--  Scalable product architectures with CI/CD & cloud deployment  
-
----
-
 ## 📈 GitHub Insights  
 
 <p align="center">
